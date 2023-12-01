@@ -8,5 +8,3 @@ Research project aimed at building a culture of privacy industry in web3: the mo
 - Attend or subscribe our events: [lu.ma](https://lu.ma/web3privacy)
 
 Mirrors of our repositories can be found at: [git.gwei.cz/web3privacy](https://git.gwei.cz/web3privacy)
-
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/static-assets/Web3privacy%20now%20community.png?raw=true)
