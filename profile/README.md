@@ -7,4 +7,4 @@ Research project aimed at building a culture of privacy industry in web3: the mo
 - Join our community: [Forum](https://forum.web3privacy.info/) | [Matrix (space)](https://matrix.to/#/#web3privacy:gwei.cz) | [Matrix (general)](https://matrix.to/#/#web3privacy:matrix.org)
 - Attend or subscribe our events: [All events](https://web3privacy.info/events) | [lu.ma](https://lu.ma/web3privacy)
 
-Mirrors of our repositories can be found at: [git.gwei.cz/web3privacy](https://git.gwei.cz/web3privacy)
+<!-- Mirrors of our repositories can be found at: [git.gwei.cz/web3privacy](https://git.gwei.cz/web3privacy) -->
