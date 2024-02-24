@@ -1,6 +1,6 @@
 ## What is Web3Privacy Now?
 
-Research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
+[Web3Privacy Now](https://web3privacy.info) (W3PN) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within web3 industry. You can read our [Manifesto](https://docs.web3privacy.info/manifesto). Feel free to collaborate.
 
 | | Links |
 | ---: | --- |
