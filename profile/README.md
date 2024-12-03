@@ -2,11 +2,11 @@
 
 [Web3Privacy Now](https://web3privacy.info) (W3PN) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within the web3 industry. 
 
-Support our work: as a [Sponsor](https://docs.web3privacy.info/get-involved/index), [Member Organization](https://docs.web3privacy.info/get-involved/org-benefits/) or as a [Individual Membership](https://docs.web3privacy.info/get-involved/personal-benefits/) 
+Support our work as a [Sponsor](https://docs.web3privacy.info/get-involved/index), a [Member Organization](https://docs.web3privacy.info/get-involved/org-benefits/), or as an [Individual Member](https://docs.web3privacy.info/get-involved/personal-benefits/) 
 
-Are you a philanthropists? then send us a [donation](https://docs.web3privacy.info/get-involved/donate/)
+Are you a philanthropists? then [send us a donation](https://docs.web3privacy.info/get-involved/donate/)
 
-Become a Contributor - [read our guide](https://docs.web3privacy.info/contributors/index)
+Become a Contributor, [read our guide](https://docs.web3privacy.info/contributors/index)
 
 Read the [Web3Privacy Now Manifesto](https://docs.web3privacy.info/about-us/manifesto/)
 
